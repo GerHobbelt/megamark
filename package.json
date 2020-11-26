@@ -28,7 +28,7 @@
   "dependencies": {
     "assignment": "2.1.0",
     "highlight-redux": "1.0.1",
-    "highlight.js": "8.4.0",
+    "highlight.js": "9.18.2",
     "highlight.js-tokens": "1.0.0",
     "insane": "2.6.0",
     "linkify-it": "0.1.2",
